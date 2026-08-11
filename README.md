@@ -9,17 +9,18 @@ Python · SQL · PostgreSQL · Docker · Git
     <td width="70%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMelo1&theme=github_dark" />
     </td>
+
     <td width="30%">
       <h3>Connect</h3>
 
       <a href="https://www.linkedin.com/in/gustavo-melo-oliveira/">
-        <img src="https://cdn.simpleicons.org/linkedin" width="24" />
+        <img src="https://cdn.simpleicons.org/linkedin" width="22" />
       </a>
 
-      <br><br>
+      &nbsp;&nbsp;
 
       <a href="mailto:gustavomelo.oliveira@hotmail.com">
-        <img src="https://cdn.simpleicons.org/gmail" width="24" />
+        <img src="https://cdn.simpleicons.org/gmail" width="22" />
       </a>
     </td>
   </tr>
