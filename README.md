@@ -4,6 +4,23 @@ I work with data, focusing on data engineering and data modeling.
 
 Python · SQL · PostgreSQL · Docker · Git
 
-| GitHub Stats | Contact |
-| - | - |
-| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMelo1&theme=github_dark) | [LinkedIn](https://www.linkedin.com/in/gustavo-melo-oliveira/)<br>[Email](mailto:gustavomelo.oliveira@hotmail.com) |
+<table>
+  <tr>
+    <td width="70%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMelo1&theme=github_dark" />
+    </td>
+    <td width="30%">
+      <h3>Connect</h3>
+
+      <a href="https://www.linkedin.com/in/gustavo-melo-oliveira/">
+        <img src="https://cdn.simpleicons.org/linkedin" width="24" />
+      </a>
+
+      <br><br>
+
+      <a href="mailto:gustavomelo.oliveira@hotmail.com">
+        <img src="https://cdn.simpleicons.org/gmail" width="24" />
+      </a>
+    </td>
+  </tr>
+</table>
